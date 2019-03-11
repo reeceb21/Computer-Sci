@@ -11,7 +11,7 @@ th {
 td{
   background-color: white;
 }
-h2, th, td, h3, h4, h5, h6, h7, h8 {
+div{
   border: 1px black;
   border-collapse: collapse;
   font-size: 12px;
