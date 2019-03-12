@@ -19,3 +19,10 @@ div{
 h1{
   text-align: center;
 }
+th,td,tr{
+  padding: 15px
+  font-size: 15px;
+}
+a{
+  color: black
+}

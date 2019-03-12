@@ -1,1 +1,44 @@
-NBA style.css
+body {
+  background-color: grey;
+}
+table {
+  width: 600px;
+  font-size: 15px;
+}
+th {
+  text-align: middle;
+  background-color: orange;
+}
+td{
+  background-color: white;
+}
+div{
+  border: 1px black;
+  border-collapse: collapse;
+  font-size: 12px;
+}
+h1{
+  text-align: center;
+}
+th,td{
+  padding: 15px;
+}
+p{
+  font-size: 10px;
+}
+h1{
+  font-size: 30px;
+}
+h2{
+  font-size: 30px;
+}
+nav{
+  font-size: 25px;
+  background-color: darkgrey;
+}
+a{
+  color: black;
+}
+h3{
+  font-size:12px;
+}

@@ -15,6 +15,7 @@ a {
 }
 p{
   font-size: 18px
+  center
 }
 h2{
   text-align: center;
@@ -39,4 +40,7 @@ h5{
   border-style: dashed;
   border-color: white;
   font-size: 25px
+}
+a{
+  color: black
 }
