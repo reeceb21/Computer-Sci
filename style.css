@@ -1,46 +1,51 @@
 body {
-  background-color: skyblue;
+  background: url(https://media.istockphoto.com/photos/old-grunge-dark-textured-wooden-backgroundthe-surface-of-the-old-picture-id868991924?k=6&m=868991924&s=612x612&w=0&h=2EThO5SQdqKD8InvtYk2E8x9hma1yYtZTClrrrMe5Yw=)
 
 }
 h1 {
-  color: black
+  color: white;
     text-align: center;
-    font-size: 35px
+    font-size: 35px;
+    color: white;
 }
 a {
-  color: black
+  color: white;
   font-family:serif;
   text-align: center;
-  font-size: 25px
+  font-size: 25px;
 }
 p{
-  font-size: 18px
-  center
+  font-size: 18px;
+  color: white;
 }
 h2{
   text-align: center;
   border-style: dashed;
-  border-color: red;
-  font-size: 25px
+  border-color: white;
+  font-size: 25px;
+  color: white;
 }
 h3{
   text-align: center;
   border-style: dashed;
-  border-color: purple;
-  font-size: 25px
+  border-color: white;
+  font-size: 25px;
+  color: white;
 }
 h4{
   text-align: center;
   border-style: dashed;
-  border-color: yellow;
-  font-size: 25px
+  border-color: white;
+  font-size: 25px;
+  color: white;
 }
 h5{
   text-align: center;
   border-style: dashed;
   border-color: white;
-  font-size: 25px
+  font-size: 25px;
+  color: white;
 }
 a{
-  color: black
+  color: white;
 }

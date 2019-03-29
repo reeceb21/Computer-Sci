@@ -1,5 +1,5 @@
 body {
-  background-color: grey;
+  background: url(https://media.istockphoto.com/photos/old-grunge-dark-textured-wooden-backgroundthe-surface-of-the-old-picture-id868991924?k=6&m=868991924&s=612x612&w=0&h=2EThO5SQdqKD8InvtYk2E8x9hma1yYtZTClrrrMe5Yw=)
 }
 table {
   width: 600px;
@@ -25,20 +25,35 @@ th,td{
 }
 p{
   font-size: 10px;
+  color: white
 }
 h1{
   font-size: 30px;
+  color: white
 }
 h2{
   font-size: 30px;
+  color: white
 }
 nav{
   font-size: 25px;
-  background-color: darkgrey;
+  color: white
 }
 a{
-  color: black;
+  color: white;
 }
-h3{
-  font-size:12px;
+.row{
+  display: flex;
+}
+.row .col{
+  width: 50%;
+}
+@media all and (max-width:1220px) {
+  .row {
+    display: block;
+    width: 100%;
+  }
+  .row .col {
+    width:100%;
+  }
 }
