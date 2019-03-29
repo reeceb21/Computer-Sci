@@ -24,7 +24,7 @@ th,td{
   padding: 15px;
 }
 p{
-  font-size: 10px;
+  font-size: 17px;
   color: white
 }
 h1{
@@ -35,12 +35,17 @@ h2{
   font-size: 30px;
   color: white
 }
+h3{
+  font-size: 15px;
+  color: white
+}
 nav{
   font-size: 25px;
   color: white
 }
 a{
   color: white;
+  font-size: 25px;
 }
 .row{
   display: flex;
